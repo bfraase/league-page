@@ -7,6 +7,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
+  <p><iframe width="560" height="315" src="https://www.youtube.com/embed/NK3Jx2yvtVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
   <p>Playoffs round two:</p>
   <p>Win or go home.</p>
   <p> #1 Bitcoin Bros vs. #4 Stanley Nickles</p>
